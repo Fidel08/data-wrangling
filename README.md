@@ -1,3 +1,2 @@
 # data-wrangling
-préparation des données
-Django
+Préparation, Validation et Anonymisation des données.
